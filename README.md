@@ -29,7 +29,7 @@ I'm a product maker in Jaipur, India. I design and build web and mobile products
 
 ## Background
 
-Since 2024 I've built fintech products with a US team from India: the Unlok trading app for iOS and Android, a corporate actions engine (dividends, splits, delistings), a reconciliation system that checks every account against exchange records, real-time notifications over Apache Pulsar, and Temporal workflows taken from proof of concept to company-wide use. B.Tech in Computer Science.
+Right now I'm on a contract with QuoteIQ, building their mobile and web apps (Flutter, iOS, Android, Nuxt) on Firebase and Google Cloud: quote signing and a job scheduler. From 2024 I built fintech products with a US team from India: the Unlok trading app for iOS and Android, a corporate actions engine (dividends, splits, delistings), a reconciliation system that checks every account against exchange records, real-time notifications over Apache Pulsar, and Temporal workflows taken from proof of concept to company-wide use. B.Tech in Computer Science.
 
 **Stack:** TypeScript · Next.js · React · React Native · Expo · Flutter · PostgreSQL · Supabase · Firebase · Express · Temporal · Mastra · Cloudflare Workers · AWS · Docker · GitHub Actions
 
