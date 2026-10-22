@@ -1,117 +1,50 @@
-<h1 align="center">Hi, I'm Hansraj Saini 👋</h1>
+<a href="https://hansrajsaini.com"><img src="assets/banner.png" alt="HS by Hansraj Saini: you built it with AI, I make it ready for real users. Code audits, security fixes, web and mobile apps, SEO." width="100%"></a>
 
-<p align="center">
-  <b>Full-Stack Developer • Mobile App Engineer • Problem Solver</b><br />
-  🚀 Passionate about building high-performance cross-platform apps using React Native, Next.js & TypeScript.
-</p>
+# Hansraj Saini · HS
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+**You built it with AI. I make it ready for real users.**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hansrajsaini8149/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:hansrajsaini8149@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://hansrajsaini.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-  </a>
-</p>
+I'm a product engineer in Jaipur, India, and I run [HS](https://hansrajsaini.com), a one-person product studio. I fix apps built with **Lovable, Bolt, Cursor and v0**: code audits, security fixes, clean-up, SEO and launch. I also design and build new **web and mobile apps** in Next.js and React Native, for founders in the US, UK and Europe.
 
----
+[Website](https://hansrajsaini.com) · [Services and prices](https://hansrajsaini.com/services) · [Work](https://hansrajsaini.com/work) · [Send a brief](https://hansrajsaini.com/contact) · [LinkedIn](https://www.linkedin.com/in/hansrajsaini8149/) · [X](https://x.com/Hansraj32323520)
 
-## 💼 Experience
+## What I do
 
-**🔹 Full-Stack Mobile Developer – Edgetrade**  
-*Nov 2024 – Present (Remote)*  
-- Developed a cross-platform mobile app for iOS & Android, reducing app load time by 40%.  
-- Built a back-office system to automate trade workflows, boosting efficiency by 30%.  
-- Implemented multilingual support, increasing global user engagement by 25%.  
-- **Stack:** React Native, Next.js, TailwindCSS, Express.js, PostgreSQL, AWS (S3, SES, SNS), TanStack, Valtio
+- **Code audit for AI-built apps.** A written report on what's broken, what's risky and what to fix first, ranked by risk, at a fixed price.
+- **Security fixes.** Supabase RLS policies, exposed API keys, missing auth checks, payments that aren't verified on the server.
+- **Code clean-up.** TypeScript, tests and repeatable deploys, so the next developer (or your AI tool) can change it without breaking it.
+- **New web and mobile products.** Designed and built by one person, from the first screen to the App Store and Google Play.
+- **SEO and speed.** Pages Google can index, Core Web Vitals, analytics.
+- **AI automation.** Agents and workflows with logs and cost tracking (Mastra, Temporal).
 
-**🔹 Junior Software Engineer – Instient (Flyku App)**  
-*June 2024 – Present (Remote)*  
-- Enhanced UI performance by 35% for a health-tracking app.  
-- Built real-time video calling, GPS tracking, and remote logging.  
-- Integrated Bluetooth audio support and reduced video latency by 20%.  
-- **Stack:** React Native, Next.js, Tamagui, Video SDK, Expo Sensors, Victory Charts
+## Shipped work
 
-**🔹 Frontend Intern – PathCreators**  
-*May 2023 – Aug 2023 (Hyderabad)*  
-- Developed an AI-powered image annotation tool, improving labeling speed by 25%.  
-- Streamlined backend API communication, improving data handling efficiency by 40%.  
-- **Stack:** HTML, CSS, JavaScript, REST APIs
+| Product | What it is | Live |
+| --- | --- | --- |
+| [Unlok mobile](https://hansrajsaini.com/work/unlok-mobile) | React Native trading app for US stocks and ETFs, built from an empty repo as the only mobile engineer | App Store and Google Play |
+| [Unlok web](https://hansrajsaini.com/work/unlok-web) | Trading platform: screener, quotes, order ticket, alerts | [app.unlok.com](https://app.unlok.com) |
+| [Unlok Insights](https://hansrajsaini.com/work/unlok-insights) | AI-written market briefs: 16 agents in production and a newsroom-style CMS. I led it. | [insights.unlok.com](https://insights.unlok.com) |
+| [Flyku](https://hansrajsaini.com/work/flyku) | Find running clubs and group runs across the US | Web and Google Play |
+| [Cab in Jaipur](https://hansrajsaini.com/work/cab-in-jaipur) | Static site with its own CMS: 74 pages the owners publish themselves | [cabinjaipur.com](https://cabinjaipur.com) |
+| [Yoga with Latu](https://hansrajsaini.com/work/yoga-with-latu) | Trilingual site that turns visitors into WhatsApp free-trial chats | [yogawithlatu.in](https://yogawithlatu.in) |
 
----
+## Writing
 
-## 💻 Projects
+- [Is your Lovable app secure? A Supabase security checklist](https://hansrajsaini.com/journal/lovable-supabase-security-checklist)
+- [API keys in your front end: how to find them and fix them](https://hansrajsaini.com/journal/api-keys-exposed-in-frontend)
+- [Why Google can't see your AI-built site, and how to fix it](https://hansrajsaini.com/journal/lovable-app-seo-google-not-indexing)
+- [Should you fix your AI-built app or rewrite it?](https://hansrajsaini.com/journal/fix-or-rewrite-ai-built-app)
+- [How much does a code audit cost for an AI-built app?](https://hansrajsaini.com/journal/code-audit-cost)
+- [Taking Temporal from a POC to company-wide](https://hansrajsaini.com/journal/temporal-from-poc-to-company-wide)
 
-**🧠 [MachineIQ](https://github.com/Hansrajsaini/MachineIQ)** – SaaS AI Tool Platform  
-*Feb 2024 – Mar 2024*  
-- Built using Next.js, TailwindCSS, ShadCN  
-- Integrated Clerk Auth & Stripe, reducing checkout abandonment by 30%  
-- **Live:** [machineiq.vercel.app](https://machineiq.vercel.app)
+## Background
 
-**🌐 [Sociate](https://github.com/Hansrajsaini/Sociate)** – Social Media App  
-*Mar 2023 – May 2023*  
-- ReactJS, NodeJS, MongoDB, ExpressJS  
-- Features: posting, comments, likes, following system  
-- Increased engagement with 40% more active users
+Since 2024 I've worked on fintech products for a US team: the Unlok trading app for iOS and Android, a corporate actions engine (dividends, splits, delistings), a reconciliation system that checks every account against exchange records, real-time notifications over Apache Pulsar, and Temporal workflows taken from proof of concept to company-wide use. Before that I interned at PathCreators. B.Tech in Computer Science.
 
----
+**Stack:** TypeScript · Next.js · React · React Native · Expo · Flutter · Supabase · Firebase · PostgreSQL · Express · Temporal · Mastra · Cloudflare Workers · AWS · Docker · GitHub Actions
 
-## 🎓 Education
+## Work with me
 
-**B.Tech – Computer Science and Engineering**  
-*Malla Reddy Engineering College, Hyderabad*  
-- CGPA: 8.05 / 10  
-- Graduated: June 2024
+Free 30-minute intro call. Every quote is fixed before I start. I take calls 7am to midnight India time (UTC+5:30), which covers the UK and European day and US mornings.
 
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,cpp,py,java,html,css" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,docker,aws" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## 🏆 Achievements
-
-- ✅ Solved **500+ LeetCode** questions  
-- 🔥 LeetCode Rating: **1524**  
-- ⭐ 5-Star C++ Coder – HackerRank  
-- ⭐ 5-Star Problem Solver – HackerRank  
-- 🏅 Max CodeChef Rating: **1451**
-
----
-
-## 📚 Certifications
-
-- Meta – *Intro to Front-End Development*  
-- Meta – *React Basics*  
-- University of Michigan – *Programming for Everybody (Python)*  
-- UC Santa Cruz – *C++ Programming Fundamentals*  
-- HKUST – *NodeJS, Express, MongoDB Backend Development*
-
----
-
-## 📬 Contact
-
-- **Email:** hansrajsaini8149@gmail.com  
-- **LinkedIn:** [hansrajsaini8149](https://www.linkedin.com/in/hansrajsaini8149/)  
-- **GitHub:** [@Hansrajsaini](https://github.com/Hansrajsaini)  
-- **Portfolio:** [hansrajsaini.vercel.app](https://hansrajsaini.vercel.app)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Let's+build+something+amazing+%F0%9F%92%A1" />
-</p>
+**[Send a brief at hansrajsaini.com/contact](https://hansrajsaini.com/contact)** or email hansrajwork8149@gmail.com.
